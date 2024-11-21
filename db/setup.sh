@@ -93,4 +93,4 @@ echo
 echo "Set the 'DATABASE_URL' env var, which you can find in the .env file:"
 echo "To set it in your terminal, run:"
 echo
-echo "export $(cat .env|grep DATABASE_URL|head -n1)"
+echo "export $(cat .envrc|grep DATABASE_URL|head -n1)"

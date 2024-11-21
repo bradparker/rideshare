@@ -52,3 +52,4 @@ docker/.pgpass
 output.log
 
 .pgpass
+.envrc.secrets
